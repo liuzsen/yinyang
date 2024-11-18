@@ -1,0 +1,9 @@
+[package]
+name = "yinyang"
+version = "0.1.0"
+edition = "2021"
+description = "The code generator for Bagua"
+license = "Apache-2.0"
+authors = ["liuzsen"]
+
+[dependencies]
